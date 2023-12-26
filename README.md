@@ -1,6 +1,3 @@
-
-Certainly! Here's a more eloquent and succinct version of your GitHub README:
-
 Hi there, I'm Irvine! 👋
 
 I'm a passionate Computer Science student with a keen interest in the dynamic intersection of Fintech and Artificial Intelligence. My curiosity lies in exploring the potential of high-growth startups within the Fintech space.
