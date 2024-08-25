@@ -1,25 +1,18 @@
-Hi there, I'm Irvine! 👋
+Hi, I'm Irvine Jonga! 👋
 
-I'm a passionate Computer Science student with a keen interest in the dynamic intersection of Fintech and Artificial Intelligence. My curiosity lies in exploring the potential of high-growth startups within the Fintech space.
+I'm a Computer Science student with a strong interest in Fintech and Artificial Intelligence, especially in the startup space.
 
-🌱 Currently Learning
+**Learning Focus:**
+I'm continuously expanding my knowledge in Computer Science while keeping up with the latest in Fintech and AI.
 
-I'm on a journey of continuous learning, navigating the realms of Computer Science and staying updated on the latest trends in Fintech and AI.
+**Interests:**
+I'm particularly interested in Fintech and eager to explore startup ideas that harness AI.
 
-👀 Areas of Interest
+**Collaboration:**
+I'm open to collaborating on innovative Fintech projects. Let's connect and see what we can create together.
 
-My gaze is fixed on the Fintech industry, and I'm particularly enthusiastic about collaborating on groundbreaking startup ideas that leverage the power of Artificial Intelligence.
-
-💡 Open to Collaboration
-
-I'm open to joining forces with like-minded individuals to brainstorm and collaborate on innovative Fintech product ideas that have the potential to evolve into successful startups.
-
-📫 How to Reach Me
-
-Let's connect! Feel free to reach out to me through LinkedIn at https://www.linkedin.com/in/irvine-jonga-1808/.
-
-Looking forward to exciting collaborations and ventures in the world of Fintech and AI! 🚀
-
+**Contact:**
+Reach out to me on LinkedIn https://www.linkedin.com/in/irvine-jonga-1808/.
 
 
 <!---
